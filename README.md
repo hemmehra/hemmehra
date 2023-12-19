@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Mehra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Mern Projects**
+- 🔭 I’m currently working on **Mern Project's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
